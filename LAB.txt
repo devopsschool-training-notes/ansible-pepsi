@@ -1,27 +1,27 @@
-Sl:No	URL Link	Username	Password
-1	https://lab.palmeto.co.in	Pepsico-Ansible01	P@lmeto@123
-2	https://lab.palmeto.co.in	Pepsico-Ansible02	P@lmeto@123
-3	https://lab.palmeto.co.in	Pepsico-Ansible03	P@lmeto@123
-4	https://lab.palmeto.co.in	Pepsico-Ansible04	P@lmeto@123
-5	https://lab.palmeto.co.in	Pepsico-Ansible05	P@lmeto@123
-6	https://lab.palmeto.co.in	Pepsico-Ansible06	P@lmeto@123
-7	https://lab.palmeto.co.in	Pepsico-Ansible07	P@lmeto@123
-8	https://lab.palmeto.co.in	Pepsico-Ansible08	P@lmeto@123
-9	https://lab.palmeto.co.in	Pepsico-Ansible09	P@lmeto@123
-10	https://lab.palmeto.co.in	Pepsico-Ansible10	P@lmeto@123
-11	https://lab.palmeto.co.in	Pepsico-Ansible11	P@lmeto@123
-12	https://lab.palmeto.co.in	Pepsico-Ansible12	P@lmeto@123
-13	https://lab.palmeto.co.in	Pepsico-Ansible13	P@lmeto@123
-14	https://lab.palmeto.co.in	Pepsico-Ansible14	P@lmeto@123
-15	https://lab.palmeto.co.in	Pepsico-Ansible15	P@lmeto@123
-16	https://lab.palmeto.co.in	Pepsico-Ansible16	P@lmeto@123
-17	https://lab.palmeto.co.in	Pepsico-Ansible17	P@lmeto@123
-18	https://lab.palmeto.co.in	Pepsico-Ansible18	P@lmeto@123
-19	https://lab.palmeto.co.in	Pepsico-Ansible19	P@lmeto@123
-20	https://lab.palmeto.co.in	Pepsico-Ansible20	P@lmeto@123
-21	https://lab.palmeto.co.in	Pepsico-Ansible21	P@lmeto@123
-22	https://lab.palmeto.co.in	Pepsico-Ansible22	P@lmeto@123
-23	https://lab.palmeto.co.in	Pepsico-Ansible23	P@lmeto@123
-24	https://lab.palmeto.co.in	Pepsico-Ansible24	P@lmeto@123
-25	https://lab.palmeto.co.in	Pepsico-Ansible25	P@lmeto@123
-26	https://lab.palmeto.co.in	Ansible-Trainer	P@lmeto@123
+Sl:No	URL Link	Username	Password	
+1	https://lab.palmeto.co.in	Pepsico-Ansible01	P@lmeto@123	Sumanth Myneni
+2	https://lab.palmeto.co.in	Pepsico-Ansible02	P@lmeto@123	Saurabh Chaturvedi
+3	https://lab.palmeto.co.in	Pepsico-Ansible03	P@lmeto@123	Naveen Edibilli
+4	https://lab.palmeto.co.in	Pepsico-Ansible04	P@lmeto@123	Dharani Balakrishna
+5	https://lab.palmeto.co.in	Pepsico-Ansible05	P@lmeto@123	Divya Madhur
+6	https://lab.palmeto.co.in	Pepsico-Ansible06	P@lmeto@123	Kalimullah Siddiqui
+7	https://lab.palmeto.co.in	Pepsico-Ansible07	P@lmeto@123	Amit Misra
+8	https://lab.palmeto.co.in	Pepsico-Ansible08	P@lmeto@123	Sireesh Maheedhara
+9	https://lab.palmeto.co.in	Pepsico-Ansible09	P@lmeto@123	AJAYA KUMAR SUDDALA
+10	https://lab.palmeto.co.in	Pepsico-Ansible10	P@lmeto@123	surya kanta mishra
+11	https://lab.palmeto.co.in	Pepsico-Ansible11	P@lmeto@123	Balaji
+12	https://lab.palmeto.co.in	Pepsico-Ansible12	P@lmeto@123	Sravya Chadalavada
+13	https://lab.palmeto.co.in	Pepsico-Ansible13	P@lmeto@123	Dhanekar Adipilly
+14	https://lab.palmeto.co.in	Pepsico-Ansible14	P@lmeto@123	Praveenkumar R
+15	https://lab.palmeto.co.in	Pepsico-Ansible15	P@lmeto@123	Subhash Konduru
+16	https://lab.palmeto.co.in	Pepsico-Ansible16	P@lmeto@123	Diktesh Singh Puri
+17	https://lab.palmeto.co.in	Pepsico-Ansible17	P@lmeto@123	Venkatesh Koraboina
+18	https://lab.palmeto.co.in	Pepsico-Ansible18	P@lmeto@123	Trinath K
+19	https://lab.palmeto.co.in	Pepsico-Ansible19	P@lmeto@123	AMIT SHEKHAR
+20	https://lab.palmeto.co.in	Pepsico-Ansible20	P@lmeto@123	Diktesh Singh
+21	https://lab.palmeto.co.in	Pepsico-Ansible21	P@lmeto@123	
+22	https://lab.palmeto.co.in	Pepsico-Ansible22	P@lmeto@123	
+23	https://lab.palmeto.co.in	Pepsico-Ansible23	P@lmeto@123	
+24	https://lab.palmeto.co.in	Pepsico-Ansible24	P@lmeto@123	
+25	https://lab.palmeto.co.in	Pepsico-Ansible25	P@lmeto@123	
+26	https://lab.palmeto.co.in	Ansible-Trainer	P@lmeto@123	
